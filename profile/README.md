@@ -9,6 +9,6 @@
 ![wechat qrcode](/wechat_pay.png)
 ![alipay qrcode](/ali_pay.png)
 
-_捐赠支持的同事可备注您的联系方式，也可以匿名。
+_捐赠支持的同时可备注您的联系方式，也可以匿名。
 
 _ **再次感谢各位对 EasyAdmin8 的支持**
