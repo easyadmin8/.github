@@ -2,7 +2,7 @@
 <img alt="log" src="/logo-8.png" />
 
 <p>
-<img src="https://img.shields.io/badge/php-%3E=8.0.0-brightgreen.svg?style=for-the-badge&logo=php&colorB=ff69b4" alt="php">
+<img src="https://img.shields.io/badge/php-%3E=8.1.0-brightgreen.svg?style=for-the-badge&logo=php&colorB=ff69b4" alt="php">
 
 <img src="https://img.shields.io/badge/mysql-%3E=5.7-brightgreen.svg?style=for-the-badge&logo=mysql&colorB=blue" alt="MySQL">
 
