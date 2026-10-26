@@ -22,7 +22,7 @@
 |----------|:--------------------------------------------------------------------:|:-----------------------------------------------------------------:|
 | ThinkPHP |         [EasyAdmin8](https://github.com/easyadmin8/EasyAdmin8)         |         [EasyAdmin8](https://gitee.com/easyadmin8/EasyAdmin8)         |
 | Laravel  | [EasyAdmin8-Laravel](https://github.com/easyadmin8/EasyAdmin8-Laravel) | [EasyAdmin8-Laravel](https://gitee.com/easyadmin8/EasyAdmin8-Laravel) |
-| webman   |  [EasyAdmin8-webman](https://github.comeasyadmin8/EasyAdmin8-webman)  |  [EasyAdmin8-webman](https://gitee.com/easyadmin8/EasyAdmin8-webman) 
+| webman   |  [EasyAdmin8-webman](https://github.com/easyadmin8/EasyAdmin8-webman)  |  [EasyAdmin8-webman](https://gitee.com/easyadmin8/EasyAdmin8-webman) 
 
 ## 官方信息
 + 官网地址：[https://easyadmin8.top](https://easyadmin8.top)
